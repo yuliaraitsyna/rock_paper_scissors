@@ -1,3 +1,4 @@
+
 document.addEventListener("click", function() {
     function changeObject(option) {
         let object = document.getElementById("userObject");
@@ -137,3 +138,5 @@ function ChangeButtonColor(button, color)
 {
     button.style.backgroundColor = color;
 }
+
+
